@@ -13,9 +13,11 @@ I know HTML, CSS, JS, REACT basics. I strive to improve my knowledge.
 
 * Location: Kaluga, Russia
 * Phone: +7 901 127 26-36
+* Vk: https://vk.com/flamefrontend
 * Email: 5017_30@mail.ru
 * GitHub: [FlameFront-end](https://github.com/FlameFront-end)
 * Discord: WolfHeart#3195
+* Codewars: [FlameFront-end](https://www.codewars.com/users/FlameFront-end)
 
 ********* 
 
