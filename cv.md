@@ -1,23 +1,19 @@
-# Kaliganov Artem
+# Spartak Zamsha
 
 ********* 
 
 ## About Me
 
-I've been doing frontend development for about six months. 
-I know HTML, CSS, JS, REACT basics. I strive to improve my knowledge.
+I am new to frontend development. I know the basics of HTML, CSS and some JS
 
 ********* 
 
 ## Contacts
 
 * Location: Kaluga, Russia
-* Phone: +7 901 127 26-36
-* Vk: https://vk.com/flamefrontend
-* Email: 5017_30@mail.ru
-* GitHub: [FlameFront-end](https://github.com/FlameFront-end)
-* Discord: WolfHeart#3195
-* Codewars: [FlameFront-end](https://www.codewars.com/users/FlameFront-end)
+* Phone: +7-(964)-141-48-08
+* Email: isellcr4ckk@yandex.ru
+* GitHub: [isellcr4ck](https://github.com/isellcr4ck)
 
 ********* 
 
@@ -25,27 +21,27 @@ I know HTML, CSS, JS, REACT basics. I strive to improve my knowledge.
 
 ### Technologies
 * HTML
-* CSS (SCSS/SASS)
+* CSS
 * JavaScript
-* React (Basic)
+* Python
+* PHP
 * Git/GitHub
 
 ### Software
 * Visual Studio Code
-* WebStorm
 * Figma
-* Adobe Photoshop (Basic)
+* Adobe Illustrator (Basic)
+* PyCharm
+* PhpStorm
 
 *********
 
 ## Code Example
 
 ```
-function digPow(n, p){
-  let ans = n.toString().split('')
-             .map((v,i) => Math.pow(parseInt(v), i+p))
-             .reduce((a,b) => a+b) / n;
-  return ans%1 == 0 ? ans : -1;
+function multiply(a, b) {
+  let multiplication = a * b
+  return multiplication
 }
 ``` 
 
@@ -53,18 +49,27 @@ function digPow(n, p){
 
 ## Experience
 
-In active search...
+* I worked in the support service of the Beeline company, the Veon group
+* I worked as a senior sales manager at Haier in the city of Kaluga
+* I worked as a shift manager at Dodo Pizza
+* Now I work in the support service of the Ozone company
 
 *********
 
 ## Education
 * Kaluga Technical College
-* Free courses on Youtube
+* Result School courses
+* YouTube courses
+* Free Hexlet courses
+* Stepik courses
+* Books
 
 ********
 
 ## English
 
-А1 (Began to actively study)
+А1 (Actively learning the basics of the language)
 
+## German
 
+A1 (self-study)
